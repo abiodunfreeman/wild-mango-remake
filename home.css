@@ -1,0 +1,23 @@
+#home {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    text-align: center;
+    background-color: lightgreen;
+}
+
+.imgDiv {
+    border: 2px red solid;
+    margin: 10px;
+}
+
+#footer {
+    border: 2px solid black;
+    grid-column: 1/4;
+    margin: 10px;
+    
+}
+#footer ul {
+    list-style: none;
+    
+}

@@ -1,0 +1,10 @@
+#employment {
+    display:none;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+}
+#textOne {
+    font-size: 30px;
+}
