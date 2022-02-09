@@ -1,4 +1,4 @@
-// export content;
+
 const content = document.getElementById('content');
 const header  = document.createElement('header');
 const navDiv = document.createElement('div');
